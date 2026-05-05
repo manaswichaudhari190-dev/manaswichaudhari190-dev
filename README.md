@@ -3,6 +3,9 @@
 <!-- Typing SVG Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+%5BManaswi+Chaudhari%5D;Backend+Web+Developer;Java+%7C+REST+APIs+%7C+AWS+Cloud;Building+data-driven+applications)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manaswichaudhari190-dev/manaswichaudhari190-dev/main/pins.gif" width="900" />
+</p>
 
 </div>
 
