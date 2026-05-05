@@ -88,7 +88,3 @@ Quieter than you'd expect. Sharper than you'd think, Chasing big dreams with a s
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=80&section=footer"/>
-</div>
