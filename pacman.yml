@@ -15,7 +15,7 @@ jobs:
       - name: Generate Pacman graph
         uses: Platane/snk@v3
         with:
-          github_user_name: Proxy939
+          github_user_name: manaswichaudhari190-dev
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
