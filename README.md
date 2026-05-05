@@ -74,19 +74,7 @@ Quieter than you'd expect. Sharper than you'd think, Chasing big dreams with a s
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&border_color=f97316&title_color=f97316&icon_color=f97316&text_color=ffffff&bg_color=0d1117" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&border_color=f97316&title_color=f97316&text_color=ffffff&bg_color=0d1117" height="165"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&border=f97316&ring=f97316&fire=ff6347&currStreakLabel=f97316&background=0d1117" />
-</div>
 
 ---
 
